@@ -1,0 +1,1 @@
+This project contained the sales record of the sales record of a product, which was cleaned using the MS Excel. Utilizing the functionalities of excel (pivot tables, functions, filters,formulas) cleaned the data and presented it using an attractive dashboard.
